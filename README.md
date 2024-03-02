@@ -18,10 +18,11 @@
     >I'm Kaamy (Amir Kaamyab)
   </h2>
   <p dir="auto">
-    I'm a Front-end software engineer and love developing web applications <br />
+    I'm a passionate software engineer and love developing web applications <br />
     Since React-Js was a complete innovation, alongside with jquery and bootstrap as the most common libraries of the current web I've been passionate about web. <br />
     so I started learning the classic JQuery which I really love even now. <br />
-    As soon as I found my feet, Around 2017 I started learning React and NextJs which I now mostly code in. 
+    As soon as I found my feet, Around 2017 I started learning React and NextJs which I now mostly code in.
+    
   </p>
   <h2 dir="auto">
     <a id="user-content-skills-and-technologies" class="anchor" aria-hidden="true" href="#skills-and-technologies"
