@@ -19,10 +19,10 @@
   </h2>
   <p dir="auto">
     I'm a passionate software engineer and love developing web applications <br />
-    Since React-Js was a complete innovation, alongside with jquery and bootstrap as the most common libraries of the current web I've been passionate about web. <br />
-    so I started learning the classic JQuery which I really love even now. <br />
-    As soon as I found my feet, Around 2017 I started learning React and NextJs which I now mostly code in.
-    
+    Driven by a desire to build efficient and robust backends, I honed my expertise in Go. my journey
+    into backend development began with php and expanded with Node.js and Express, but Go's
+    simplicity, concurrency features, and performance capabilities ultimately drew me in, allowing me to reinvent some serious wheels and dive a bit into system-level programming.
+    Now I primarily code in Go and am open to work opportunities.
   </p>
   <h2 dir="auto">
     <a id="user-content-skills-and-technologies" class="anchor" aria-hidden="true" href="#skills-and-technologies"
