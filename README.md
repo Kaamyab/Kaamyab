@@ -18,11 +18,7 @@
     >I'm Kaamy (Amir Kaamyab)
   </h2>
   <p dir="auto">
-    I'm a passionate software engineer and love developing web applications <br />
-    Driven by a desire to build efficient and robust backends, I honed my expertise in Go. my journey
-    into backend development began with php and expanded with Node.js and Express, but Go's
-    simplicity, concurrency features, and performance capabilities ultimately drew me in, allowing me to reinvent some serious wheels and dive a bit into system-level programming.
-    Now I primarily code in Go and am open to work opportunities.
+    a passionate software engineer and a gopher <br />
   </p>
   <h2 dir="auto">
     <a id="user-content-skills-and-technologies" class="anchor" aria-hidden="true" href="#skills-and-technologies"
